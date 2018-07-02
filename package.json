@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mdevgaonkar/wrk/issues"
   },
-  "homepage": "https://github.com/Mdevgaonkar/wrk#readme"
+  "homepage": "https://github.com/Mdevgaonkar/wrk#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
